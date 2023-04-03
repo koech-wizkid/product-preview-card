@@ -75,5 +75,16 @@ p {
     height: 40px;
     border-radius: 10px;
     border: none;
+    cursor: pointer;
     
+}
+
+.clear-btn {
+    color: red;
+    cursor: pointer;
+    display: none;
+}
+
+#success-msg {
+    display: inline;
 }
